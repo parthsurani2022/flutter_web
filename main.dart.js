@@ -70069,7 +70069,7 @@ s.toString
 return this.a.b.$2(a,s)},
 $S:16}
 A.a3U.prototype={
-$1(a){return $.akF()[3].b.$2(a,"/homePage")},
+$1(a){return $.akF()[6].b.$2(a,"/homePage")},
 $S:16}
 A.Et.prototype={
 J(a,b){var s=null,r=this.c.a
